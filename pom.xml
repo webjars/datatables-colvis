@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>datatables-colvis</artifactId>
-    <version>1.1.1</version>
+    <version>1.1.2-SNAPSHOT</version>
     <name>datatables colVis</name>
     <description>WebJar for datatables colVis</description>
     <url>http://webjars.org</url>
@@ -53,7 +53,7 @@
         <url>http://github.com/webjars/datatables-colvis</url>
         <connection>scm:git:https://github.com/webjars/datatables-colvis.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/datatables-colvis.git</developerConnection>
-        <tag>datatables-colvis-1.1.1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencies>
