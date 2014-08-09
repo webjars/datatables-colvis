@@ -24,10 +24,10 @@
         <requirejs>
             {
                 "paths": {
-                    "datatable-colvis": "datatable-colvis"
+                    "datatable-colvis": "js/dataTables.colVis"
                 },
                 "shim": {
-                    "datatable-colvis": ["jquery,datables"]
+                    "datatable-colvis": ["jquery", "datatables"]
                 }
             }
         </requirejs>
